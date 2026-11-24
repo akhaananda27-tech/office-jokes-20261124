@@ -9,7 +9,7 @@ One office-life joke in a single line — the entry itself is in joke.txt. Bount
 ## Run it
 
 ```sh
-cat joke.txt
+python3 main.py
 ```
 
 ---
